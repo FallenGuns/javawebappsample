@@ -8,6 +8,7 @@
   <version>1.0</version>
   <packaging>war</packaging>
   <build>
+    <finalName>ROOT</finalName>      
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
